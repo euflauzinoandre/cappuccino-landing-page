@@ -1,5 +1,19 @@
 # cappuccino-landing-page
 
+<div style="display: flex; justify-content: center; width:100%; margin: auto;">
+<img src="./images/cappuccino-dev-logo.png">
+</div>
+<br>
+<div style="text-align: justify">
+	This is my first try to create a landing page. I choose a theme that I feel comfortable to work and it makes look like funny to build about propused theme.<br>
+	<br>
+	Features:
+	<br>[ ] Create other pages
+	<br>[ ] Implements better responsivity
+	<br>[ ] Start to use Javascript
+	<br>[ ] Use a framework CSS to improve the site
+</div>
+
 # Images
 Author: pariwat pannium<br>
 Name: glass of coffee with milk on the table<br>
