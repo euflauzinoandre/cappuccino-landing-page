@@ -34,7 +34,8 @@ main {
   flex-grow: 1;
 }
 
-h1 {
+h1,
+p {
   color: white;
 }
 
@@ -43,19 +44,9 @@ h2 {
   margin-top: 20px;
 }
 
-p {
-  color: white;
-}
-
 li,
 a {
   text-decoration: none;
-}
-
-img {
-  max-height: 250px;
-  width: 200px;
-  border-radius: 6px;
 }
 
 footer {
@@ -68,9 +59,10 @@ footer {
   background-color: var(--background-color);
 }
 
-.logo {
-  padding-left: 40px;
-  padding-top: 10px;
+.cappuccino-dev-logo {
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 300px;
 }
 
 .icon {
@@ -165,6 +157,12 @@ video {
 
 .item:hover {
   box-shadow: 4px 4px 4px var(--cooffee-color);
+}
+
+.item img {
+  height: 250px;
+  width: 200px;
+  border-radius: 6px;
 }
 
 .comments {
