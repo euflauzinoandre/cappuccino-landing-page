@@ -1,9 +1,7 @@
 # cappuccino-landing-page
 
-https://euflauzino.github.io/cappuccino-landing-page/
-<br>
 <div style="display: flex; justify-content: center; width:100%; margin: auto;">
-<img src="./images/cappuccino-dev-logo.png">
+<a href="https://euflauzinoandre.github.io/cappuccino-landing-page/" target="_blank"><img src="./images/cappuccino-dev-logo.png"></a>
 </div>
 <br>
 <div style="text-align: justify">
