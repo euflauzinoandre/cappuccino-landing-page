@@ -167,6 +167,7 @@ video {
 
 .comments {
   display: flex;
+  flex-wrap: wrap;  
   gap: 100px;
   align-items: center;
   justify-content: center;
@@ -184,7 +185,7 @@ video {
   box-sizing: border-box;
   text-align: justify;
   width: 500px;
-  height: auto;
+  height: 200px;
   background-color: rgba(211, 211, 211, 0.301);
   border-radius: 20px;
   padding: 20px;
