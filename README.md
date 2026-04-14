@@ -1,5 +1,7 @@
 # cappuccino-landing-page
 
+https://euflauzino.github.io/cappuccino-landing-page/
+<br>
 <div style="display: flex; justify-content: center; width:100%; margin: auto;">
 <img src="./images/cappuccino-dev-logo.png">
 </div>
@@ -24,7 +26,7 @@ Image: [Pexels](https://unsplash.com/photos/a-glass-filled-with-liquid-and-ice-o
 Author: Chu Chup Hinh<br>
 Date: Uploaded on June 28th, 2018 at 12:55 PM<br>
 Free to use<br>
-Image: [Pexels](https://www.pexels.com/photo/<br> macro-photography-of-clear-drinking-glass-with-lemon-fruit-and-black-straw-1194030/)<br>
+Image: [Pexels](https://www.pexels.com/photo/)<br> macro-photography-of-clear-drinking-glass-with-lemon-fruit-and-black-straw-1194030/)<br>
 <br>
 Author: Casa Norte<br>
 Date: Uploaded on February 1st, 2021 at 11:08 PM<br>
